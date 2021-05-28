@@ -16,3 +16,6 @@ You get points by collecting gems, which also give you another life if you get m
 
 ![Level 1](https://raw.githubusercontent.com/cken56/key-quest-game/main/Platformer_screenshots/Level1.PNG)
 
+![Level 2](https://raw.githubusercontent.com/cken56/key-quest-game/main/Platformer_screenshots/Level2.PNG)
+
+![Level 3](https://raw.githubusercontent.com/cken56/key-quest-game/main/Platformer_screenshots/Level3.PNG)
