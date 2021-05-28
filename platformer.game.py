@@ -118,7 +118,7 @@ jump_snd = pygame.mixer.Sound('assets/sounds/jump.wav')
 key_snd = pygame.mixer.Sound('assets/sounds/key.wav')
 
 #Music
-theme = 'assets/music/Oniku_Loop2.wav'
+theme = 'assets/music/Videogame2.wav'
 
 
 #Levels
@@ -329,6 +329,7 @@ class Hero(AnimatedEntity):
         hits = pygame.sprite.spritecollide(self, fires, True)
         
         for fire in hits:
+            hurt_snd.play()
             self.hearts -= 1
 
     def check_boxes(self):
@@ -1070,7 +1071,7 @@ while running:
                 start_level()
                 stage = PLAYING
             else:
-                stage == WIN
+                stage = WIN
 
     if hero.rect.centerx < WIDTH // 2:
         offset_x = 0
