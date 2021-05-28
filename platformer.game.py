@@ -185,7 +185,7 @@ class Hero(AnimatedEntity):
         self.vy = 0
 
         self.gems = 0
-        self.hearts = 10
+        self.hearts = 3
         self.score = 0
         
         self.facing_right = True
@@ -1057,6 +1057,7 @@ while running:
 
         elif hero.reached_goal() and hero.has_key:
             achievement_snd.play()
+            player.score += 25
             stage = COMPLETE
             pygame.mixer.music.stop()
             countdown = 2 * FPS
@@ -1072,6 +1073,7 @@ while running:
                 stage = PLAYING
             else:
                 stage = WIN
+                achievement_snd.play()
 
     if hero.rect.centerx < WIDTH // 2:
         offset_x = 0
