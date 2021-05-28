@@ -7,3 +7,9 @@ Get keys to the doors without being killed by monsters. Clear all three levels t
 ## Controls
 
 Use the arrow keys to move around and the space bar to jump.
+
+## Screenshots
+
+![Title screen](https://raw.githubusercontent.com/cken56/key-quest-game/main/Platformer_screenshots/Start_screen.PNG)
+
+![Level 1](https://raw.githubusercontent.com/cken56/key-quest-game/main/Platformer_screenshots/Level1.PNG)
