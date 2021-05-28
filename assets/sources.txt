@@ -1,0 +1,18 @@
+Characters, Tiles, and Items
+https://kenney.nl/assets/simplified-platformer-pack
+https://opengameart.org/content/bow
+https://kenney.nl/assets/platformer-characters
+https://opengameart.org/content/iron-sword
+https://opengameart.org/node/79018
+https://opengameart.org/content/fire-0
+https://opengameart.org/content/lpc-animated-torch
+https://opengameart.org/content/20-sidescroller-tiles-by-starsteelgaming
+
+Fonts:
+https://www.1001fonts.com/dinomouse-font.html
+
+Sounds:
+https://opengameart.org/content/8-bit-sound-effects-library
+
+Music:
+
