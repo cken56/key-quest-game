@@ -1,5 +1,3 @@
-# key-quest
-
 ## Goal
 
 Get keys to the doors without being killed by monsters. Clear all three levels to win the game.
